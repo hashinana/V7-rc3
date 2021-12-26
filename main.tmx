@@ -15,9 +15,7 @@
   <image source="tiles32/HC_Store VXAce/TileA5_PHC_Store.png" width="256" height="512"/>
  </tileset>
  <tileset firstgid="369" source="world-map-starterkit-master/tiles_png/structures/rc3-mullana-overlay.tsx"/>
- <tileset firstgid="881" name="TileA4_PHC_Store" tilewidth="32" tileheight="32" tilecount="240" columns="16">
-  <image source="tiles32/HC_Store VXAce/TileA4_PHC_Store.png" width="512" height="480"/>
- </tileset>
+ <tileset firstgid="881" source="tiles32/HC_Store VXAce/TileA4_PHC_Store.tsx"/>
  <tileset firstgid="1121" source="tiles32/HC_Store VXAce/PHC_StoreExteriorDAlt.tsx"/>
  <tileset firstgid="1377" source="world-map-starterkit-master/tiles_png/2021/rc3-2021-mullana-utility.tsx"/>
  <layer id="1" name="floor" width="77" height="77">
