@@ -550,7 +550,7 @@
  </layer>
  <layer id="5" name="exit" width="77" height="77">
   <properties>
-   <property name="exitUrl" value="world://lobby/main.json"/>
+   <property name="exitUrl" value="world://lobby/solarpunk.json#start_V7"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -970,7 +970,8 @@
  </layer>
  <layer id="16" name="linkscedule" width="77" height="77">
   <properties>
-   <property name="stringUrl" value="https://v7-project.org/doku.php?id=playground:playground:scedule"/>
+   <property name="openWebsite" value="https://v7-project.org/doku.php?id=playground:playground:scedule"/>
+   <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
